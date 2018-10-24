@@ -1,3 +1,3 @@
 this is test1
 this is test2
-this is branch A
+this is branch B
